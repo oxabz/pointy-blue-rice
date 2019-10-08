@@ -1,0 +1,2 @@
+#!/bin/sh
+rofi-sensible-terminal $1 $2 & sleep 0.2 && i3-msg floating enable

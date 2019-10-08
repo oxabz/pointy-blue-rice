@@ -1,0 +1,54 @@
+##### THIS FILE IS BEING CURRENTLY MANAGED BY URXVTCONFIG #####
+##### CHANGES DONE TO THIS FILE MANUALLY MAY AFFECT THE FUNCTIONALITY ######
+##### PROCEED WITH CAUTION! #####
+
+! special colors
+*.foreground:  #93a1a1
+*.background:  #000000
+*.cursorColor:  #93a1a1
+! black
+*.color0:      #002b36
+*.color8:      #657b83
+! red
+*.color1:      #dc322f
+*.color9:      #dc322f
+! green
+*.color2:      #859900
+*.color10:     #859900
+! yellow
+*.color3:      #b58900
+*.color11:     #b58900
+! blue
+*.color4:      #268bd2
+*.color12:     #268bd2
+! magenta
+*.color5:      #6c71c4
+*.color13:     #6c71c4
+! cyan
+*.color6:      #2aa198
+*.color14:     #2aa198
+! white
+*.color7:      #93a1a1
+*.color15:     #fdf6e3
+
+URxvt*scrollBar:         false
+URxvt*scrollBar_right:   false
+
+URxvt*transparent:       false
+
+URxvt*depth: 32
+URxvt.background: [95]#1d1f28
+URxvt*blurRadius: 50
+
+URxvt.font: xft:DejaVuSansMono Nerd Font Mono:pixelsize=13
+URxvt.letterSpace: 0
+
+*antialias:  true
+*autohint:   false
+
+URxvt.perl-ext-common: default,matcher
+URxvt.url-launcher: /bin/chromium
+
+URxvt.matcher.button: 1
+
+urxvt.internalBorder: 0
