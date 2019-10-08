@@ -1,5 +1,5 @@
 # Pointy Blue (My first rice)
-![presentation picture](https://raw.githubusercontent.com/username/projectname/branch/path/to/img.png)
+![presentation picture](https://github.com/oxabz/spiky-blue-rice/blob/master/Spiky%20Blue.png)
 ## Introduction
 Point Blue is my first i3 rice. 
 It was mainly made to train my scripting*. 
